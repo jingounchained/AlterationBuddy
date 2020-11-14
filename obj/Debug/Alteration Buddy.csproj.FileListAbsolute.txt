@@ -1,0 +1,11 @@
+C:\Users\depri\source\repos\Alteration Buddy\bin\Debug\Alteration Buddy.exe.config
+C:\Users\depri\source\repos\Alteration Buddy\bin\Debug\Alteration Buddy.exe
+C:\Users\depri\source\repos\Alteration Buddy\bin\Debug\Alteration Buddy.pdb
+C:\Users\depri\source\repos\Alteration Buddy\bin\Debug\Interfaces.dll
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration_Buddy.MainForm.resources
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration_Buddy.Properties.Resources.resources
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration Buddy.csproj.GenerateResource.cache
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration Buddy.csproj.CoreCompileInputs.cache
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration Buddy.csproj.CopyComplete
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration Buddy.exe
+C:\Users\depri\source\repos\Alteration Buddy\obj\Debug\Alteration Buddy.pdb
