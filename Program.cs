@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using GeniePlugin.Interfaces;
+
 
 
 namespace Alteration_Buddy
 {
-    public class Program : IPlugin
+    public class Program 
     {
         /// <summary>
         /// The main entry point for the application.
@@ -34,10 +34,9 @@ namespace Alteration_Buddy
 
         #region Interface Properties
 
-        public void Initialize(IHost host)
+        public void Initialize()
         {
-            Genie.Instance.SetHost(ref host);
-            _parent = Genie.Instance.ParentForm;
+
         }
 
         public string Name
@@ -75,15 +74,6 @@ namespace Alteration_Buddy
             Application.Run(new MainForm());
         }
 
-        public void Show()
-        {
-            OpenWindow(Genie.Instance.ParentForm);
-        }
-
-        public void VariableChanged(string variable)
-        {
-
-        }
 
         public string ParseText(string text, string window)
         {
