@@ -31,11 +31,8 @@ namespace Alteration_Buddy
 
         private void Init()
         {
-#if DEBUG
             _pluginPath = Directory.GetCurrentDirectory();
-#else
-            _pluginPath = Genie.Instance.GetVariable("PluginPath");
-#endif
+
             _filePath = _pluginPath + "\\alterations.csv";
         }
         private void MainForm_Load(object sender, EventArgs e)

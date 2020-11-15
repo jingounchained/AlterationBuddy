@@ -10,3 +10,13 @@ C:\Users\depri\source\repos\Alteration Buddy\obj\Release\Alteration Buddy.csproj
 C:\Users\depri\source\repos\Alteration Buddy\bin\Release\Alteration Buddy.dll.config
 C:\Users\depri\source\repos\Alteration Buddy\bin\Release\Alteration Buddy.dll
 C:\Users\depri\source\repos\Alteration Buddy\obj\Release\Alteration Buddy.dll
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\bin\Release\Alteration Buddy.exe.config
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\bin\Release\Alteration Buddy.exe
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\bin\Release\Alteration Buddy.pdb
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration Buddy.csprojAssemblyReference.cache
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration_Buddy.MainForm.resources
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration_Buddy.Properties.Resources.resources
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration Buddy.csproj.GenerateResource.cache
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration Buddy.csproj.CoreCompileInputs.cache
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration Buddy.exe
+C:\Users\depri\source\repos\jingounchained\AlterationBuddy\obj\Release\Alteration Buddy.pdb
