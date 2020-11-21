@@ -139,7 +139,7 @@ namespace Alteration_Buddy
             if (txtLook.Text.Length > 0) txtResult.Text += "Look: " + txtLook.Text;
 
             if (txtResult.Text.Length > 0 && txtRead.Text.Length > 0) txtResult.Text += " \\ ";
-            if (txtRead.Text.Length > 0) txtResult.Text += "Read: " + txtRead.Text;
+            if (txtRead.Text.Length > 0) txtResult.Text += "Read: \"" + txtRead.Text + "\"";
 
         }
 
